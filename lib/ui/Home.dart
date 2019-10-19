@@ -45,12 +45,6 @@ class Home extends StatefulWidget{
 
                   });
                 }
-      
-      
-          
-                
-          
-          
             @override
             Widget build(BuildContext context) {
               return new Scaffold(
@@ -179,9 +173,4 @@ class Home extends StatefulWidget{
               return 0.0;
             }
 
-
-                        
-                  
-                  
-                    
 } 
