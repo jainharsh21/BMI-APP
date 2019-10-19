@@ -7,6 +7,12 @@ The user has to enter their weight in kilograms,height in centimeters and their 
 Upon entering their details they can tap the "Calculate BMI!" button and view their BMI.
 This help is useful for the users who want to maintain their body health and it is also helpful for users who go to gym.
 
+## Working
+
+![bmi](https://user-images.githubusercontent.com/44740658/67146151-b6afa200-f2a5-11e9-97ef-58e8e55507e7.gif)
+
+## Screenshots
+
 ### 1)Obese.
 
 ![WhatsApp Image 2019-10-19 at 2 20 24 PM (3)](https://user-images.githubusercontent.com/44740658/
